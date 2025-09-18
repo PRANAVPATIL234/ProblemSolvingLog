@@ -8,7 +8,7 @@ This repository is my daily log of coding problems and their solutions. My goal 
 
 I'm focused on tackling problems from platforms like *LeetCode, HackerRank, and Codeforces*.
 
-The solutions are primarily written in **Python**, but I might occasionally use other languages like **Java** or **C++** depending on the problem.
+The solutions are primarily written in **Java**, but I might occasionally use other languages like **Python** or **JavaScript** depending on the problem.
 
 ---
 
